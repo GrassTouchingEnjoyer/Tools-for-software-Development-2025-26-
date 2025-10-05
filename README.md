@@ -1,2 +1,19 @@
 # Tools-for-software-Development-2025-26-
-This course will teach me a lot about software engineering, more updates on my README, I would say I am scared, but I am too used to this GOD GIVE ME STRENGTH.
+
+Part 1: Software Development Tools
+
+The Python Programming Language
+Debugging & Logging
+Profiling Python Code
+Idiomatic Python & Code Refactoring
+Unit Testing
+Automating Code Deployment (VirtualEnv/Docker)
+Software Development in Teams & Version Control
+
+Part 2: Systems Programming
+
+Linux Commands
+Bash Scripting
+Processes
+Process Control
+Sockets
